@@ -4481,7 +4481,7 @@ input, select, textarea {
 	#copyright {
 		color: #ffffff;
 		position: relative;
-		color: rgba(255, 255, 255, 0.25);
+		color: rgb(255, 255, 255);
 		cursor: default;
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 0.8rem;
@@ -4494,6 +4494,12 @@ input, select, textarea {
 		width: calc(100% - 4rem);
 		max-width: 72rem;
 		z-index: 2;
+		text-shadow: 
+			-1px -1px 0 #8a8a8a,  
+			 1px -1px 0 #8a8a8a,
+			-1px  1px 0 #8a8a8a,
+			 1px  1px 0 #8a8a8a;
+
 	}
 
 		#copyright input, #copyright select, #copyright textarea {
