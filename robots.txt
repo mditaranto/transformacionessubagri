@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /assets/
+Disallow: /images/favicon/
+Allow: /
+
+Sitemap: https://transformacionessubagri.com/sitemap.xml

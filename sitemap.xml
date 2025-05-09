@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset 
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- Página principal (español) -->
+  <url>
+    <loc>https://transformacionessubagri.com/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://transformacionessubagri.com/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://transformacionessubagri.com/en/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://transformacionessubagri.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://transformacionessubagri.com/ar/" />
+  </url>
+
+  <!-- Páginas de productos -->
+  <!-- guisante -->
+  <url>
+    <loc>https://transformacionessubagri.com/guisante/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://transformacionessubagri.com/guisante/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://transformacionessubagri.com/en/guisante/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://transformacionessubagri.com/fr/guisante/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://transformacionessubagri.com/ar/guisante/" />
+  </url>
+
+  <!-- heno -->
+  <url>
+    <loc>https://transformacionessubagri.com/heno/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://transformacionessubagri.com/heno/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://transformacionessubagri.com/en/heno/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://transformacionessubagri.com/fr/heno/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://transformacionessubagri.com/ar/heno/" />
+  </url>
+
+  <!-- imabe -->
+  <url>
+    <loc>https://transformacionessubagri.com/imabe/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://transformacionessubagri.com/imabe/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://transformacionessubagri.com/en/imabe/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://transformacionessubagri.com/fr/imabe/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://transformacionessubagri.com/ar/imabe/" />
+  </url>
+
+  <!-- jovisa -->
+  <url>
+    <loc>https://transformacionessubagri.com/jovisa/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://transformacionessubagri.com/jovisa/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://transformacionessubagri.com/en/jovisa/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://transformacionessubagri.com/fr/jovisa/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://transformacionessubagri.com/ar/jovisa/" />
+  </url>
+
+  <!-- paquetep -->
+  <url>
+    <loc>https://transformacionessubagri.com/paquetep/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://transformacionessubagri.com/paquetep/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://transformacionessubagri.com/en/paquetep/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://transformacionessubagri.com/fr/paquetep/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://transformacionessubagri.com/ar/paquetep/" />
+  </url>
+
+</urlset>

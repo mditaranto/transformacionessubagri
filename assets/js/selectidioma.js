@@ -10,36 +10,40 @@ function getInitialLanguage() {
   return supportedLangs.includes(browserLang) ? browserLang : "es";
 }
 
-function getCurrentPageName() {
-  const parts = window.location.pathname.split("/");
-  return parts.pop() || "index.html"; // default to index.html
-}
-
 function getCurrentLangFromPath() {
   const pathParts = window.location.pathname.split("/");
   if (pathParts.includes("fr")) return "fr";
   if (pathParts.includes("en")) return "en";
   if (pathParts.includes("ar")) return "ar";
-  return "es"; // Default to Spanish if no folder
+  return "es";
+}
+
+function getCurrentPageFolder() {
+  const pathParts = window.location.pathname.split("/").filter(Boolean); // elimina strings vacíos
+  const lang = getCurrentLangFromPath();
+
+  if (supportedLangs.includes(pathParts[0])) {
+    return pathParts[1] || ""; // ej: /fr/jovisa/ => jovisa
+  } else {
+    return pathParts[0] || ""; // ej: /jovisa/ => jovisa
+  }
 }
 
 // Inicializar selector con idioma actual
-const initialLang = getInitialLanguage();
-select.value = initialLang;
+select.value = getCurrentLangFromPath();
 
 // Manejar cambio de idioma
 select.addEventListener("change", () => {
   const newLang = select.value;
   localStorage.setItem("lang", newLang);
 
-  const currentPage = getCurrentPageName();
-
+  const currentPage = getCurrentPageFolder();
   let newUrl = "";
 
   if (newLang === "es") {
-    newUrl = "/" + currentPage; // raíz
+    newUrl = "/" + (currentPage ? currentPage + "/" : "");
   } else {
-    newUrl = `/${newLang}/${currentPage}`; // dentro de carpeta de idioma
+    newUrl = `/${newLang}/` + (currentPage ? currentPage + "/" : "");
   }
 
   window.location.href = newUrl;
