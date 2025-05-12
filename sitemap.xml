@@ -1,61 +1,171 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset 
-  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-
-  <!-- Página principal (español) -->
+<?xml version="1.0" ?>
+<urlset xmlns:html="http://www.w3.org/1999/xhtml" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://transformacionessubagri.com/</loc>
-    <xhtml:link rel="alternate" hreflang="es" href="https://transformacionessubagri.com/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://transformacionessubagri.com/en/" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://transformacionessubagri.com/fr/" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://transformacionessubagri.com/ar/" />
+    <html:link rel="alternate" hreflang="es" href="https://transformacionessubagri.com/"/>
+    <html:link rel="alternate" hreflang="en" href="https://transformacionessubagri.com/en/"/>
+    <html:link rel="alternate" hreflang="fr" href="https://transformacionessubagri.com/fr/"/>
+    <html:link rel="alternate" hreflang="ar" href="https://transformacionessubagri.com/ar/"/>
   </url>
-
-  <!-- Páginas de productos -->
-  <!-- guisante -->
   <url>
-    <loc>https://transformacionessubagri.com/guisante/</loc>
-    <xhtml:link rel="alternate" hreflang="es" href="https://transformacionessubagri.com/paja-de-guisante/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://transformacionessubagri.com/en/pea-straw-bales/" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://transformacionessubagri.com/fr/paille-pressée-pois/" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://transformacionessubagri.com/ar/guisante/" />
+    <loc>https://transformacionessubagri.com/en/</loc>
+    <html:link rel="alternate" hreflang="es" href="https://transformacionessubagri.com/"/>
+    <html:link rel="alternate" hreflang="en" href="https://transformacionessubagri.com/en/"/>
+    <html:link rel="alternate" hreflang="fr" href="https://transformacionessubagri.com/fr/"/>
+    <html:link rel="alternate" hreflang="ar" href="https://transformacionessubagri.com/ar/"/>
   </url>
-
-  <!-- heno -->
   <url>
-    <loc>https://transformacionessubagri.com/heno/</loc>
-    <xhtml:link rel="alternate" hreflang="es" href="https://transformacionessubagri.com/heno-de-avena/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://transformacionessubagri.com/en/oat-hay/" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://transformacionessubagri.com/fr/foin-d’avoine/" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://transformacionessubagri.com/ar/heno/" />
+    <loc>https://transformacionessubagri.com/fr/</loc>
+    <html:link rel="alternate" hreflang="es" href="https://transformacionessubagri.com/"/>
+    <html:link rel="alternate" hreflang="en" href="https://transformacionessubagri.com/en/"/>
+    <html:link rel="alternate" hreflang="fr" href="https://transformacionessubagri.com/fr/"/>
+    <html:link rel="alternate" hreflang="ar" href="https://transformacionessubagri.com/ar/"/>
   </url>
-
-  <!-- imabe -->
   <url>
-    <loc>https://transformacionessubagri.com/imabe/</loc>
-    <xhtml:link rel="alternate" hreflang="es" href="https://transformacionessubagri.com/paja-fibra-semipicada-imabe/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://transformacionessubagri.com/en/straw-semi-chopped-fiber-imabe/" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://transformacionessubagri.com/fr/paille-fibre-semi-hachée-imabe/" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://transformacionessubagri.com/ar/imabe/" />
+    <loc>https://transformacionessubagri.com/ar/</loc>
+    <html:link rel="alternate" hreflang="es" href="https://transformacionessubagri.com/"/>
+    <html:link rel="alternate" hreflang="en" href="https://transformacionessubagri.com/en/"/>
+    <html:link rel="alternate" hreflang="fr" href="https://transformacionessubagri.com/fr/"/>
+    <html:link rel="alternate" hreflang="ar" href="https://transformacionessubagri.com/ar/"/>
   </url>
-
-  <!-- jovisa -->
   <url>
-    <loc>https://transformacionessubagri.com/jovisa/</loc>
-    <xhtml:link rel="alternate" hreflang="es" href="https://transformacionessubagri.com/paja-fibra-larga-jovisa/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://transformacionessubagri.com/en/long-fiber-straw-jovisa/" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://transformacionessubagri.com/fr/paille-pressée-fibre-longue-jovisa/" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://transformacionessubagri.com/ar/jovisa/" />
+    <loc>https://transformacionessubagri.com/paja-de-guisante/</loc>
+    <html:link rel="alternate" hreflang="es" href="https://transformacionessubagri.com/paja-de-guisante/"/>
+    <html:link rel="alternate" hreflang="en" href="https://transformacionessubagri.com/en/pea-straw-bales/"/>
+    <html:link rel="alternate" hreflang="fr" href="https://transformacionessubagri.com/fr/paille-pressée-pois/"/>
+    <html:link rel="alternate" hreflang="ar" href="https://transformacionessubagri.com/ar/guisante/"/>
   </url>
-
-  <!-- paquetep -->
   <url>
-    <loc>https://transformacionessubagri.com/paquetep/</loc>
-    <xhtml:link rel="alternate" hreflang="es" href="https://transformacionessubagri.com/paquetes-pequeños/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://transformacionessubagri.com/en/small-bale-pressed-straw/" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://transformacionessubagri.com/fr/petite-botte-de-paille/" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://transformacionessubagri.com/ar/paquetep/" />
+    <loc>https://transformacionessubagri.com/en/pea-straw-bales/</loc>
+    <html:link rel="alternate" hreflang="es" href="https://transformacionessubagri.com/paja-de-guisante/"/>
+    <html:link rel="alternate" hreflang="en" href="https://transformacionessubagri.com/en/pea-straw-bales/"/>
+    <html:link rel="alternate" hreflang="fr" href="https://transformacionessubagri.com/fr/paille-pressée-pois/"/>
+    <html:link rel="alternate" hreflang="ar" href="https://transformacionessubagri.com/ar/guisante/"/>
   </url>
-
+  <url>
+    <loc>https://transformacionessubagri.com/fr/paille-pressée-pois/</loc>
+    <html:link rel="alternate" hreflang="es" href="https://transformacionessubagri.com/paja-de-guisante/"/>
+    <html:link rel="alternate" hreflang="en" href="https://transformacionessubagri.com/en/pea-straw-bales/"/>
+    <html:link rel="alternate" hreflang="fr" href="https://transformacionessubagri.com/fr/paille-pressée-pois/"/>
+    <html:link rel="alternate" hreflang="ar" href="https://transformacionessubagri.com/ar/guisante/"/>
+  </url>
+  <url>
+    <loc>https://transformacionessubagri.com/ar/guisante/</loc>
+    <html:link rel="alternate" hreflang="es" href="https://transformacionessubagri.com/paja-de-guisante/"/>
+    <html:link rel="alternate" hreflang="en" href="https://transformacionessubagri.com/en/pea-straw-bales/"/>
+    <html:link rel="alternate" hreflang="fr" href="https://transformacionessubagri.com/fr/paille-pressée-pois/"/>
+    <html:link rel="alternate" hreflang="ar" href="https://transformacionessubagri.com/ar/guisante/"/>
+  </url>
+  <url>
+    <loc>https://transformacionessubagri.com/heno-de-avena/</loc>
+    <html:link rel="alternate" hreflang="es" href="https://transformacionessubagri.com/heno-de-avena/"/>
+    <html:link rel="alternate" hreflang="en" href="https://transformacionessubagri.com/en/oat-hay/"/>
+    <html:link rel="alternate" hreflang="fr" href="https://transformacionessubagri.com/fr/foin-d’avoine/"/>
+    <html:link rel="alternate" hreflang="ar" href="https://transformacionessubagri.com/ar/heno/"/>
+  </url>
+  <url>
+    <loc>https://transformacionessubagri.com/en/oat-hay/</loc>
+    <html:link rel="alternate" hreflang="es" href="https://transformacionessubagri.com/heno-de-avena/"/>
+    <html:link rel="alternate" hreflang="en" href="https://transformacionessubagri.com/en/oat-hay/"/>
+    <html:link rel="alternate" hreflang="fr" href="https://transformacionessubagri.com/fr/foin-d’avoine/"/>
+    <html:link rel="alternate" hreflang="ar" href="https://transformacionessubagri.com/ar/heno/"/>
+  </url>
+  <url>
+    <loc>https://transformacionessubagri.com/fr/foin-d’avoine/</loc>
+    <html:link rel="alternate" hreflang="es" href="https://transformacionessubagri.com/heno-de-avena/"/>
+    <html:link rel="alternate" hreflang="en" href="https://transformacionessubagri.com/en/oat-hay/"/>
+    <html:link rel="alternate" hreflang="fr" href="https://transformacionessubagri.com/fr/foin-d’avoine/"/>
+    <html:link rel="alternate" hreflang="ar" href="https://transformacionessubagri.com/ar/heno/"/>
+  </url>
+  <url>
+    <loc>https://transformacionessubagri.com/ar/heno/</loc>
+    <html:link rel="alternate" hreflang="es" href="https://transformacionessubagri.com/heno-de-avena/"/>
+    <html:link rel="alternate" hreflang="en" href="https://transformacionessubagri.com/en/oat-hay/"/>
+    <html:link rel="alternate" hreflang="fr" href="https://transformacionessubagri.com/fr/foin-d’avoine/"/>
+    <html:link rel="alternate" hreflang="ar" href="https://transformacionessubagri.com/ar/heno/"/>
+  </url>
+  <url>
+    <loc>https://transformacionessubagri.com/paja-fibra-semipicada-imabe/</loc>
+    <html:link rel="alternate" hreflang="es" href="https://transformacionessubagri.com/paja-fibra-semipicada-imabe/"/>
+    <html:link rel="alternate" hreflang="en" href="https://transformacionessubagri.com/en/straw-semi-chopped-fiber-imabe/"/>
+    <html:link rel="alternate" hreflang="fr" href="https://transformacionessubagri.com/fr/paille-fibre-semi-hachée-imabe/"/>
+    <html:link rel="alternate" hreflang="ar" href="https://transformacionessubagri.com/ar/imabe/"/>
+  </url>
+  <url>
+    <loc>https://transformacionessubagri.com/en/straw-semi-chopped-fiber-imabe/</loc>
+    <html:link rel="alternate" hreflang="es" href="https://transformacionessubagri.com/paja-fibra-semipicada-imabe/"/>
+    <html:link rel="alternate" hreflang="en" href="https://transformacionessubagri.com/en/straw-semi-chopped-fiber-imabe/"/>
+    <html:link rel="alternate" hreflang="fr" href="https://transformacionessubagri.com/fr/paille-fibre-semi-hachée-imabe/"/>
+    <html:link rel="alternate" hreflang="ar" href="https://transformacionessubagri.com/ar/imabe/"/>
+  </url>
+  <url>
+    <loc>https://transformacionessubagri.com/fr/paille-fibre-semi-hachée-imabe/</loc>
+    <html:link rel="alternate" hreflang="es" href="https://transformacionessubagri.com/paja-fibra-semipicada-imabe/"/>
+    <html:link rel="alternate" hreflang="en" href="https://transformacionessubagri.com/en/straw-semi-chopped-fiber-imabe/"/>
+    <html:link rel="alternate" hreflang="fr" href="https://transformacionessubagri.com/fr/paille-fibre-semi-hachée-imabe/"/>
+    <html:link rel="alternate" hreflang="ar" href="https://transformacionessubagri.com/ar/imabe/"/>
+  </url>
+  <url>
+    <loc>https://transformacionessubagri.com/ar/imabe/</loc>
+    <html:link rel="alternate" hreflang="es" href="https://transformacionessubagri.com/paja-fibra-semipicada-imabe/"/>
+    <html:link rel="alternate" hreflang="en" href="https://transformacionessubagri.com/en/straw-semi-chopped-fiber-imabe/"/>
+    <html:link rel="alternate" hreflang="fr" href="https://transformacionessubagri.com/fr/paille-fibre-semi-hachée-imabe/"/>
+    <html:link rel="alternate" hreflang="ar" href="https://transformacionessubagri.com/ar/imabe/"/>
+  </url>
+  <url>
+    <loc>https://transformacionessubagri.com/paja-fibra-larga-jovisa/</loc>
+    <html:link rel="alternate" hreflang="es" href="https://transformacionessubagri.com/paja-fibra-larga-jovisa/"/>
+    <html:link rel="alternate" hreflang="en" href="https://transformacionessubagri.com/en/long-fiber-straw-jovisa/"/>
+    <html:link rel="alternate" hreflang="fr" href="https://transformacionessubagri.com/fr/paille-pressée-fibre-longue-jovisa/"/>
+    <html:link rel="alternate" hreflang="ar" href="https://transformacionessubagri.com/ar/jovisa/"/>
+  </url>
+  <url>
+    <loc>https://transformacionessubagri.com/en/long-fiber-straw-jovisa/</loc>
+    <html:link rel="alternate" hreflang="es" href="https://transformacionessubagri.com/paja-fibra-larga-jovisa/"/>
+    <html:link rel="alternate" hreflang="en" href="https://transformacionessubagri.com/en/long-fiber-straw-jovisa/"/>
+    <html:link rel="alternate" hreflang="fr" href="https://transformacionessubagri.com/fr/paille-pressée-fibre-longue-jovisa/"/>
+    <html:link rel="alternate" hreflang="ar" href="https://transformacionessubagri.com/ar/jovisa/"/>
+  </url>
+  <url>
+    <loc>https://transformacionessubagri.com/fr/paille-pressée-fibre-longue-jovisa/</loc>
+    <html:link rel="alternate" hreflang="es" href="https://transformacionessubagri.com/paja-fibra-larga-jovisa/"/>
+    <html:link rel="alternate" hreflang="en" href="https://transformacionessubagri.com/en/long-fiber-straw-jovisa/"/>
+    <html:link rel="alternate" hreflang="fr" href="https://transformacionessubagri.com/fr/paille-pressée-fibre-longue-jovisa/"/>
+    <html:link rel="alternate" hreflang="ar" href="https://transformacionessubagri.com/ar/jovisa/"/>
+  </url>
+  <url>
+    <loc>https://transformacionessubagri.com/ar/jovisa/</loc>
+    <html:link rel="alternate" hreflang="es" href="https://transformacionessubagri.com/paja-fibra-larga-jovisa/"/>
+    <html:link rel="alternate" hreflang="en" href="https://transformacionessubagri.com/en/long-fiber-straw-jovisa/"/>
+    <html:link rel="alternate" hreflang="fr" href="https://transformacionessubagri.com/fr/paille-pressée-fibre-longue-jovisa/"/>
+    <html:link rel="alternate" hreflang="ar" href="https://transformacionessubagri.com/ar/jovisa/"/>
+  </url>
+  <url>
+    <loc>https://transformacionessubagri.com/paquetes-pequeños/</loc>
+    <html:link rel="alternate" hreflang="es" href="https://transformacionessubagri.com/paquetes-pequeños/"/>
+    <html:link rel="alternate" hreflang="en" href="https://transformacionessubagri.com/en/small-bale-pressed-straw/"/>
+    <html:link rel="alternate" hreflang="fr" href="https://transformacionessubagri.com/fr/petite-botte-de-paille/"/>
+    <html:link rel="alternate" hreflang="ar" href="https://transformacionessubagri.com/ar/paquetep/"/>
+  </url>
+  <url>
+    <loc>https://transformacionessubagri.com/en/small-bale-pressed-straw/</loc>
+    <html:link rel="alternate" hreflang="es" href="https://transformacionessubagri.com/paquetes-pequeños/"/>
+    <html:link rel="alternate" hreflang="en" href="https://transformacionessubagri.com/en/small-bale-pressed-straw/"/>
+    <html:link rel="alternate" hreflang="fr" href="https://transformacionessubagri.com/fr/petite-botte-de-paille/"/>
+    <html:link rel="alternate" hreflang="ar" href="https://transformacionessubagri.com/ar/paquetep/"/>
+  </url>
+  <url>
+    <loc>https://transformacionessubagri.com/fr/petite-botte-de-paille/</loc>
+    <html:link rel="alternate" hreflang="es" href="https://transformacionessubagri.com/paquetes-pequeños/"/>
+    <html:link rel="alternate" hreflang="en" href="https://transformacionessubagri.com/en/small-bale-pressed-straw/"/>
+    <html:link rel="alternate" hreflang="fr" href="https://transformacionessubagri.com/fr/petite-botte-de-paille/"/>
+    <html:link rel="alternate" hreflang="ar" href="https://transformacionessubagri.com/ar/paquetep/"/>
+  </url>
+  <url>
+    <loc>https://transformacionessubagri.com/ar/paquetep/</loc>
+    <html:link rel="alternate" hreflang="es" href="https://transformacionessubagri.com/paquetes-pequeños/"/>
+    <html:link rel="alternate" hreflang="en" href="https://transformacionessubagri.com/en/small-bale-pressed-straw/"/>
+    <html:link rel="alternate" hreflang="fr" href="https://transformacionessubagri.com/fr/petite-botte-de-paille/"/>
+    <html:link rel="alternate" hreflang="ar" href="https://transformacionessubagri.com/ar/paquetep/"/>
+  </url>
 </urlset>
